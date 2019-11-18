@@ -6,7 +6,7 @@ import { Container } from './styles'
 export default function Header() {
     return (
         <Container>
-            <h1>Neto.dev</h1>
+            <h1>Pipefy</h1>
         </Container>
     )
 }
