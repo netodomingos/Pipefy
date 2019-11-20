@@ -30,6 +30,9 @@ export const Container = styled.div`
             border: 0;
             cursor: pointer;
         }
+        button:hover{
+            background: #7159c1;
+        }
     }
 
     ul{
